@@ -49,8 +49,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maithily-21&show_icons=true&theme=react&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=maithily-21&show_icons=true&theme=react&hide_border=false" />
 </p>
+
 
 ---
 
